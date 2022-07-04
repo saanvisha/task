@@ -1,3 +1,4 @@
 want to wrire script
 checkout inti unix
 checkin etc unix
+2 Git Tutorial | GitHub Creating Repository
