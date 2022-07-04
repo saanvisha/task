@@ -1,0 +1,3 @@
+want to wrire script
+checkout inti unix
+checkin etc unix
