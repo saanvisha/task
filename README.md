@@ -1,0 +1,2 @@
+# task
+about writing scripts
